@@ -1,7 +1,7 @@
 ## Description
 A simple Brainfuck Interpreter written in Python 3.6
 Copyright 2018 LiquidFox1776
-
+See this Wikipedia article https://en.wikipedia.org/wiki/Brainfuck for a description of the language 
 ## Usage
 usage: bf.py [-h] --file FILE [--number_of_cells NUMBER_OF_CELLS]
              [--max_cells MAX_CELLS]
